@@ -1,0 +1,55 @@
+body {
+  background-color: #f4f6f8;
+  color: #222;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.card {
+  background-color: #ffffff;
+  border: 1px solid #cfd6dd;
+  padding: 20px;
+  margin: 0 auto 20px auto;
+  max-width: 520px;
+}
+
+.error {
+  color: #b00020;
+  background-color: #fdecea;
+  border: 1px solid #f5c2c0;
+  padding: 10px;
+  margin-top: 12px;
+}
+
+.service-card {
+    max-width: 520px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #cfd6dd;
+}
+
+.spacer {
+  height: 16px;
+}
+
+#service-form {
+  padding: 12px;
+  border: 1px dashed #9aa5b1;
+  margin-top: 12px;
+}
+
+#result {
+  padding: 10px;
+  margin-top: 12px;
+  border: 1px solid #cfd6dd;
+  background-color: #eef3f8;
+}
+
+#report-json {
+  padding: 10px;
+  margin-top: 8px;
+  border: 1px solid #cfd6dd;
+  background-color: #f8f9fa;
+  word-break: break-all;
+}
